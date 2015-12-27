@@ -79,9 +79,9 @@
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = git://github.com/mileszs/ack.vim.git
-[submodule "bundle/pyflakes-vim"]
-	path = bundle/pyflakes.vim
-	url = https://github.com/pyflakes/pyflakes.git
+[submodule "bundle/flake8.vim"]
+	path = bundle/.vim
+	url = https://github.com/andviro/flake8-vim.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = git://github.com/kchmck/vim-coffee-script.git
